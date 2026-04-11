@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PlayStack Legal & Support</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; text-align: center; padding: 50px; background: #0f172a; color: white; }
+        a { color: #3d7bff; text-decoration: none; display: block; margin: 20px; font-size: 1.2em; }
+        .contact { color: #8d94a0; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <h1>PlayStack</h1>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Use (EULA)</a>
+    <div class="contact">
+        <p>Support & Contact:</p>
+        <p>can.olgen.dev@gmail.com</p>
+    </div>
+</body>
+</html>
